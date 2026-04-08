@@ -108,6 +108,10 @@ export const navLinks: NavLinksTypes = [
                 text: 'Emergency Dentistry',
                 link: '/emergency-dentistry/',
             },
+            {
+                text: 'Botulinum Toxin',
+                link: '/cosmetic-dentistry/botulinum-toxin/',
+            },
         ],
     },
     {
@@ -134,6 +138,10 @@ export const navLinks: NavLinksTypes = [
                 text: 'Sedation Dentistry',
                 link: '/sedation-dentistry/',
             },
+            {
+                text: 'Special Offers',
+                link: '/special-offers/',
+            },
         ],
     },
     {
@@ -155,6 +163,10 @@ export const navLinks: NavLinksTypes = [
             {
                 text: 'Video Library',
                 link: '/dental-video-library/',
+            },
+            {
+                text: 'Blog',
+                link: '/blog/',
             },
         ],
     },
